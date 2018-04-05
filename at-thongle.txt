@@ -1,0 +1,3 @@
+Name: Thong
+Age: 25
+Sex: Male
