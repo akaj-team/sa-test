@@ -1,0 +1,4 @@
+Ten: Huynh Van Bach
+Tuoi: 30
+Gioi Tinh: Nam
+
